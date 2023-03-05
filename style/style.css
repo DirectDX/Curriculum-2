@@ -1,0 +1,116 @@
+
+.formatoLateral {
+  float: left;
+  height: 1000px;
+  
+}
+header {
+  color: #2c567c;
+  
+}
+.fotoPerfil {
+  height: 200px;
+  margin-top: 40px;
+  margin-right: 100px;
+  margin-left: 80px;
+  border-radius: 50%;
+  margin-bottom: 30px;
+}
+.listaContatco {
+  margin-left: 100px;
+  margin-top: 30px;
+  background-color: #2c567c;
+}
+hr {
+height: 15px;
+background-color: #2c567c;
+border: #2c567c;
+margin-right: 700px;
+border-radius: 5px;
+}
+.margen {
+  margin-top: 100px;
+}
+.nombre {
+  font-size: 60px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 450px;
+  font-weight: bolder;
+}
+.fondoAzul {
+  background-color: #2c567c;
+  display: inline-block;
+  overflow: hidden;
+  border-radius: 50%;
+  border-color: #2c567c;
+  justify-content: center;
+  align-items: center;
+}
+.iconoGit {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  margin-bottom: 9px;
+}
+.margenNav {
+  margin-left: 160px;
+}
+.cont-icono {
+  width: 50px;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  display:flex;
+  background-color: #2c567c;
+  border-radius: 50%;
+  margin-top: 15px;
+}
+.datos-cel{
+  margin-top: 15px;
+  margin-left: -80px;
+  color: white;
+  background-color: #2c567c;
+  width: 220px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.datos-email{
+  margin-top: 15px;
+  margin-left: -110px;
+  color: white;
+  background-color: #2c567c;
+  width: 280px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.fondoAzul-h2{
+  background-color: #2c567c;
+  border-radius:50px;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-left: 400px;
+  margin-top: 40px;
+}
+.resto-texto{
+  background-color: #0733b4;
+  color: white;
+  border-radius: 10px;
+  padding: 5px;
+  margin-top: 2px;
+  display: flex;
+  width: fit-content;
+}
